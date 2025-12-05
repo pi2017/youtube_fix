@@ -1,6 +1,6 @@
 # Youtube fix
 
-Pytubefix is a Python library for dealing with word pluralization.
+Pytubefix is a Python library for download from Youtube url.
 
 ## Installation
 
